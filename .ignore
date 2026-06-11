@@ -1,0 +1,9 @@
+/.matadata/
+.env
+
+*.o
+*.exe
+*.tmp
+
+/*
+!/src
